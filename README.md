@@ -1,1 +1,5 @@
-# Attending Data Driven Journalism course at UNC, made some notes about Excel common functions in Chinese. 
+Data Driven Journalism
+Some notes in Chinese
+
+EXCEL_Magic_Note.pdf ............. Excel common functions
+SQL Tutorial.pdf.................. SQL - Structured Query Language
